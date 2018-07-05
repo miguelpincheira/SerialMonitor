@@ -210,3 +210,68 @@
 2018-07-05 14:48:48,772 [INFO ]  Temp: 25.00° - Humd: 35.00% 
 2018-07-05 14:49:19,584 [INFO ]  Temp: 25.00° - Humd: 35.00% 
 2018-07-05 14:49:50,399 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:50:21,215 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:50:52,027 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:51:22,842 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:51:53,658 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:52:24,470 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:52:55,285 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:53:26,101 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:53:56,913 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:54:27,729 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:54:58,540 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:55:29,356 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:56:00,172 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:56:30,984 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:57:01,799 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:57:32,615 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:58:03,427 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:58:34,243 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 14:59:09,917 [INFO ]  Port monitoring started
+2018-07-05 14:59:09,918 [INFO ]  Opening Port on device /dev/ttyACM0 at 9600
+2018-07-05 14:59:09,918 [INFO ]  Opening MongoDB
+2018-07-05 14:59:14,398 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 14:59:45,210 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:00:16,026 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:00:46,837 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:01:17,653 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:01:48,469 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:02:19,281 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:02:50,096 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:03:20,900 [INFO ]  Port monitoring stoped
+2018-07-05 15:03:57,141 [INFO ]  Port monitoring started
+2018-07-05 15:03:57,141 [INFO ]  Opening Port on device /dev/ttyACM0 at 9600
+2018-07-05 15:03:57,142 [INFO ]  Opening MongoDB
+2018-07-05 15:03:59,830 [INFO ]  Port monitoring stoped
+2018-07-05 15:18:29,805 [INFO ]  Port monitoring started
+2018-07-05 15:18:29,805 [INFO ]  Opening Port on device /dev/ttyACM0 at 9600
+2018-07-05 15:18:29,805 [INFO ]  Opening MongoDB
+2018-07-05 15:18:34,284 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:19:05,100 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:19:35,912 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:20:06,716 [INFO ]  Port monitoring stoped
+2018-07-05 15:21:10,044 [INFO ]  Port monitoring started
+2018-07-05 15:21:10,044 [INFO ]  Opening Port on device /dev/ttyACM0 at 9600
+2018-07-05 15:21:10,045 [INFO ]  Opening MongoDB
+2018-07-05 15:21:10,046 [INFO ]  MongoDB Opened
+2018-07-05 15:21:12,734 [DEBUG]  MSG(30000) - SIZE(5)
+2018-07-05 15:21:14,512 [DEBUG]  MSG(H: 35.00) - SIZE(8)
+2018-07-05 15:21:14,524 [DEBUG]  MSG(T: 25.00) - SIZE(8)
+2018-07-05 15:21:14,525 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:21:14,525 [DEBUG]  Inserting into MongoDB
+2018-07-05 15:21:45,328 [DEBUG]  MSG(H: 34.00) - SIZE(8)
+2018-07-05 15:21:45,336 [DEBUG]  MSG(T: 25.00) - SIZE(8)
+2018-07-05 15:21:45,337 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:21:45,337 [DEBUG]  Inserting into MongoDB
+2018-07-05 15:22:16,140 [DEBUG]  MSG(H: 35.00) - SIZE(8)
+2018-07-05 15:22:16,152 [DEBUG]  MSG(T: 25.00) - SIZE(8)
+2018-07-05 15:22:16,152 [INFO ]  Temp: 25.00° - Humd: 35.00% 
+2018-07-05 15:22:16,153 [DEBUG]  Inserting into MongoDB
+2018-07-05 15:22:46,956 [DEBUG]  MSG(H: 34.00) - SIZE(8)
+2018-07-05 15:22:46,968 [DEBUG]  MSG(T: 25.00) - SIZE(8)
+2018-07-05 15:22:46,968 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:22:46,968 [DEBUG]  Inserting into MongoDB
+2018-07-05 15:23:17,771 [DEBUG]  MSG(H: 34.00) - SIZE(8)
+2018-07-05 15:23:17,780 [DEBUG]  MSG(T: 25.00) - SIZE(8)
+2018-07-05 15:23:17,780 [INFO ]  Temp: 25.00° - Humd: 34.00% 
+2018-07-05 15:23:17,781 [DEBUG]  Inserting into MongoDB
